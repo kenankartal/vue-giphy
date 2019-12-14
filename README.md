@@ -1,4 +1,4 @@
-# giphyapi
+# vue-giphy
 
 > A Vue.js project
 
